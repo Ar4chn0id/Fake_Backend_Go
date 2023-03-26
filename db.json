@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "ProductName": "Laptop",
+      "Category": 1,
+      "UnitPrice": 4999.99
+    },
+    {
+      "id": 2,
+      "ProductName": "Mause",
+      "CategoryId": 1,
+      "UnitPrice": 49.99
+    },
+    {
+      "id": 3,
+      "ProductName": "Water",
+      "Category": 2,
+      "UnitPrice": 0.99
+    },
+    {
+      "id": 4,
+      "ProductName": "Keyboard",
+      "Category": 1,
+      "UnitPrice": 85.5
+    },
+    {
+      "id": 5,
+      "ProductName": "Cofee",
+      "Category": 2,
+      "UnitPrice": 8.5
+    },
+    {
+      "id": 6,
+      "ProductName": "GPU",
+      "Category": 1,
+      "UnitPrice": 8500
+    },
+    {
+      "id": 7,
+      "ProductName": "CPU",
+      "Category": 1,
+      "UnitPrice": 3999.99
+    },
+    {
+      "id": 8,
+      "ProductName": "Tea",
+      "Category": 2,
+      "UnitPrice": 5
+    },
+    {
+      "id": 9,
+      "ProductName": "Power Supply",
+      "Category": 1,
+      "Unitprice": 2860
+    },
+    {
+      "id": 10,
+      "ProductName": "Main Board",
+      "Category": 1,
+      "Unitprice": 3520
+    },
+    {
+      "id": 11,
+      "ProductName": "Microphone",
+      "Category": 1,
+      "Unitprice": 835
+    },
+    {
+      "id": 12,
+      "ProductName": "Fruitjuice",
+      "Category": 2,
+      "Unitprice": 10.99
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "CategoryName": "Technology"
+    },
+    {
+      "id": 2,
+      "CategoryName": "Beverages"
+    }
+  ]
+}
